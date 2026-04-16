@@ -53,4 +53,6 @@ The dataset is a CSV file with the following fields:
 ```spl
 index=main_logs
 
-###
+---
+
+## 🔍 Analysis & Queries
