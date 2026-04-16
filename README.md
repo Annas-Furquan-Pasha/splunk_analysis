@@ -54,10 +54,8 @@ The dataset is a CSV file with the following fields:
 index=main__logs
 
 ---
----
----
 
-🔍 Analysis & Queries
+## 🔍 Analysis & Queries
 1. Unique Status Codes
 index=main_logs | stats count by status_code
 2. Error Detection (Status >= 400)
